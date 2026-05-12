@@ -85,10 +85,10 @@
 :root {
   --cor-de-fundo: #ff54ff;
   --verde: #11bd97;
-  --branco: #2b1ee9;
+  --azul: #2b1ee9;
   --botao-ativo: #f8e915;
   --botao-inativo: rgba(209, 8, 109, 0.5);
-  --texto-fundo: rgba(3, 49, 255, 0.87);
+  --texto-fundo: rgba(62, 255, 3, 0.87);
 }
 
 body {
@@ -120,7 +120,7 @@ body {
 .botao {
   font-family: "Crakra Petch", sans-serif;
   background-color: var(--botao-inativo);
-  color: var(--branco);
+  color: var(--azul);
   display: flex;
   justify-content: center;
   padding: 1em;
