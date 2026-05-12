@@ -45,6 +45,7 @@
 }
 
 .contador {
+
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -93,7 +94,7 @@
 
 body {
   background-color: var(--cor-de-fundo);
-  color: var(--branco);
+  color: var(--azul);
   font-family: "Chakra Petch", sans-serif;
 }
 
